@@ -52,3 +52,33 @@
     margin-right: 1%;
     margin-left: 5%;
 }
+.urgentTasks{
+    h3{
+        font-size: 1.1vw;
+        font-weight: 700;
+        margin: .9vw 1vw 0vw 0vw;
+    }
+    div{
+        margin-top: 1.2vw;
+    }
+}
+.percent{
+    margin-top: 1vw;
+    margin-left: 3vw;
+    width: 19vw;
+    justify-content: space-around;
+    p{
+        font-weight: bold;
+    }
+}
+
+.Chat{
+    margin:1vw 0vw 0vw 2vw;
+    h1{
+        font-size: 1.4vw;
+        font-weight: 700;
+    }
+    p{
+        width: 15vw;
+    }
+}
