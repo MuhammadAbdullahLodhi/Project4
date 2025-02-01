@@ -3,29 +3,50 @@
     overflow: hidden;
     margin-left: 1%;
     margin-right: 5%;
-}
-.ddbtn{
-    background-color: #ffffff;
-    color: rgb(208, 93, 93);
+    margin-top: 1vw;
 }
 .leftList{
+    margin-bottom: .8vw;
+    font-size: 1.2vw;
 }
 
 
-
+.tasks{
+    
+    justify-content: space-around;
+}
 .task{
     justify-content: space-between;
     align-items: center;
-    border: 2px solid;
+    border-radius: 10px;
     padding: 10px;
+
+    h1{
+        font-size: 1.6vw;
+        font-weight: 600;
+    }
 }
 
 
 .container2{
+    margin-top: 1vw;
     width: 55%;
     overflow: hidden;
 }
+.recently{
+    div{
+        h1{
+            font-size: 1.4vw;
+            font-weight: 700;
+        }
+        p{
+            width: 80%;
+            font-size: .8vw;
+        }
+    }
+}
 .container3{
+    margin-top: 1vw;
     width: 30%;
     overflow: hidden;
     margin-right: 1%;
